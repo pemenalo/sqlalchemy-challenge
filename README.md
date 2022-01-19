@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 
-**Step 1 - Climate Analysis and Exploration
+## Step 1 - Climate Analysis and Exploration
 
 To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
@@ -14,7 +14,7 @@ Link Python to the database by creating an SQLAlchemy session.
 
 Important Don't forget to close out your session at the end of your notebook.
 
-**Precipitation Analysis
+## Precipitation Analysis
 
 Start by finding the most recent date in the data set.
 
@@ -29,7 +29,7 @@ Sort the DataFrame values by date.
 Plot the results using the DataFrame plot method.
 Use Pandas to print the summary statistics for the precipitation data.
 
-**Station Analysis
+## Station Analysis
 
 Design a query to calculate the total number of stations in the dataset.
 
